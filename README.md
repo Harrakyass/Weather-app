@@ -30,8 +30,10 @@ A simple weather application developed using JavaScript, HTML, and CSS.
 
 Screenshot
 
-Replace screenshot.png with the actual path to your application's screenshot.
-Contributing
+## Screenshot
+
+![Screenshot](./screenshot.png)
+
 
 Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
 License
